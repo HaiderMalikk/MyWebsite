@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
     // Example data for titles, descriptions, and links
     var projectData = [
-        { title: 'Chess Game', description: 'Play chess with a friend or a bot powerd using AI this project is my best one yet', link: 'https://github.com/HaiderMalikk/Projects/tree/main/Chess', image: 'Chess.png' },
+        { title: 'Chess Game', description: 'Play chess with a friend or a bot powerd using AI this project is my best one yet', link: 'https://github.com/HaiderMalikk/Chess', image: 'Chess.png' },
         { title: 'Email app', description: 'Send emails and files using this email app (email automation coming soon..)', link: 'https://github.com/HaiderMalikk/Projects/tree/main/Email_BOT', image: 'emailbot.png' },
         { title: 'Neural Network', description: 'This neural network can recognize hand drawn images of numbers', link: 'https://github.com/HaiderMalikk/Projects/tree/main/Neural%20Network%20For%20Digit%20Recognition', image: 'NN.png' },
         { title: 'Ping Pong game', description: 'This 2 player ping pong game is loads of fun and have many customization options', link: 'https://github.com/HaiderMalikk/Projects/tree/main/Ping%20Pong', image: 'ping pong.png' },
